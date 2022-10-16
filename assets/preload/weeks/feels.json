@@ -1,0 +1,32 @@
+{
+	"storyName": "no, he's not oswald",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "feels",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Feelin Good",
+			"feels",
+			[
+				115,
+				60,
+				175
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "feels"
+}
