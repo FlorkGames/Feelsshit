@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="feels.png"><SubTexture name="feels intro0000" x="0" y="0" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0001" x="2024" y="0" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0002" x="4048" y="0" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0003" x="6072" y="0" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0004" x="0" y="1484" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0005" x="2024" y="1484" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0006" x="4048" y="1484" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0007" x="6072" y="1484" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0008" x="0" y="2968" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0009" x="2024" y="2968" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0010" x="4048" y="2968" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0011" x="6072" y="2968" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0012" x="0" y="4452" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0013" x="2024" y="4452" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0014" x="4048" y="4452" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0015" x="6072" y="4452" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="feels intro0016" x="0" y="5936" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+</TextureAtlas>

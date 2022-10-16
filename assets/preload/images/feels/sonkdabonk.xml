@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonic.png"><SubTexture name="sonic stand0000" x="0" y="0" width="1054" height="1354" frameX="0" frameY="0" frameWidth="1054" frameHeight="1354" />
+<SubTexture name="sonic stand0001" x="1054" y="0" width="1054" height="1354" frameX="0" frameY="0" frameWidth="1054" frameHeight="1354" />
+<SubTexture name="sonic stand0002" x="0" y="1354" width="1054" height="1354" frameX="0" frameY="0" frameWidth="1054" frameHeight="1354" />
+<SubTexture name="sonic stand0003" x="1054" y="1354" width="1054" height="1354" frameX="0" frameY="0" frameWidth="1054" frameHeight="1354" />
+<SubTexture name="sonic stand0004" x="0" y="2708" width="1054" height="1354" frameX="0" frameY="0" frameWidth="1054" frameHeight="1354" />
+</TextureAtlas>

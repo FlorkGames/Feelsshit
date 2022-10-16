@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="frontlads.png"><SubTexture name="frontlads bop0000" x="0" y="0" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="frontlads bop0001" x="2024" y="0" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="frontlads bop0002" x="0" y="1484" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="frontlads bop0003" x="2024" y="1484" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+<SubTexture name="frontlads bop0004" x="0" y="2968" width="2024" height="1484" frameX="0" frameY="0" frameWidth="2024" frameHeight="1484" />
+</TextureAtlas>

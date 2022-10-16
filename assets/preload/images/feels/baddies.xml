@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="baddies.png"><SubTexture name="baddies bop0000" x="0" y="0" width="2212" height="847" frameX="0" frameY="0" frameWidth="2212" frameHeight="847" />
+<SubTexture name="baddies bop0001" x="2212" y="0" width="2212" height="847" frameX="0" frameY="0" frameWidth="2212" frameHeight="847" />
+<SubTexture name="baddies bop0002" x="0" y="847" width="2212" height="847" frameX="0" frameY="0" frameWidth="2212" frameHeight="847" />
+<SubTexture name="baddies bop0003" x="2212" y="847" width="2212" height="847" frameX="0" frameY="0" frameWidth="2212" frameHeight="847" />
+<SubTexture name="baddies bop0004" x="0" y="1694" width="2212" height="847" frameX="0" frameY="0" frameWidth="2212" frameHeight="847" />
+</TextureAtlas>
