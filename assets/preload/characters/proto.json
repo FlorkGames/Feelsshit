@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-74
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Victory Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-3
+			],
+			"anim": "FUNNY",
+			"fps": 24,
+			"name": "Victorious",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-68
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RIght",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				-35
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-90
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-57
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				-34
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-63
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Miss Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Proto_BF",
+	"position": [
+		-170,
+		210
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		-2147483648
+	],
+	"camera_position": [
+		270,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

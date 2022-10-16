@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "intro",
+			"fps": 15,
+			"name": "feels intro",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "feels/introfeels",
+	"position": [
+		-400,
+		-420
+	],
+	"healthicon": "feels",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		235,
+		255
+	],
+	"camera_position": [
+		40,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
