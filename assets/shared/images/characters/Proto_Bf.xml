@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Proto Bf.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="595" height="609"/>
+	<SubTexture name="Down0001" x="0" y="0" width="595" height="609"/>
+	<SubTexture name="Down0002" x="595" y="0" width="595" height="609"/>
+	<SubTexture name="Down0003" x="595" y="0" width="595" height="609"/>
+	<SubTexture name="Down0004" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Down0005" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Down0006" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Down0007" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Down0008" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Down0009" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Down0010" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Down0011" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Down0012" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Down0013" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Down0014" x="1190" y="0" width="595" height="609"/>
+	<SubTexture name="Idle0000" x="1785" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0001" x="1785" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0002" x="2431" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0003" x="2431" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0004" x="3077" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0005" x="3077" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0006" x="3723" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0007" x="3723" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0008" x="4369" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0009" x="4369" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0010" x="4369" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0011" x="4369" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0012" x="4369" y="0" width="646" height="599"/>
+	<SubTexture name="Idle0013" x="4369" y="0" width="646" height="599"/>
+	<SubTexture name="Left0000" x="5015" y="0" width="651" height="612"/>
+	<SubTexture name="Left0001" x="5015" y="0" width="651" height="612"/>
+	<SubTexture name="Left0002" x="5666" y="0" width="651" height="612"/>
+	<SubTexture name="Left0003" x="5666" y="0" width="651" height="612"/>
+	<SubTexture name="Left0004" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Left0005" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Left0006" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Left0007" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Left0008" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Left0009" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Left0010" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Left0011" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Left0012" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Left0013" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Left0014" x="6317" y="0" width="651" height="612"/>
+	<SubTexture name="Miss Down0000" x="0" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0001" x="6968" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0002" x="6968" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0003" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0004" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0005" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0006" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0007" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0008" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0009" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0010" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0011" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0012" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0013" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0014" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0015" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0016" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0017" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0018" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0019" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0020" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0021" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0022" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0023" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0024" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0025" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0026" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0027" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0028" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0029" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0030" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0031" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0032" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0033" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Down0034" x="7563" y="0" width="595" height="609"/>
+	<SubTexture name="Miss Left0000" x="0" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0001" x="664" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0002" x="664" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0003" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0004" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0005" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0006" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0007" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0008" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0009" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0010" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0011" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0012" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0013" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0014" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0015" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0016" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0017" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0018" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0019" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0020" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0021" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0022" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0023" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0024" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0025" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0026" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0027" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0028" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0029" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0030" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0031" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0032" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0033" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Left0034" x="1328" y="612" width="664" height="619"/>
+	<SubTexture name="Miss Right0000" x="4626" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0001" x="1992" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0002" x="1992" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0003" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0004" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0005" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0006" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0007" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0008" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0009" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0010" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0011" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0012" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0013" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0014" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0015" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0016" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0017" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0018" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0019" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0020" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0021" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0022" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0023" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0024" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0025" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0026" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0027" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0028" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0029" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0030" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0031" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0032" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0033" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Right0034" x="2669" y="612" width="677" height="643"/>
+	<SubTexture name="Miss Up0000" x="6657" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0001" x="3346" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0002" x="3346" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0003" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0004" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0005" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0006" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0007" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0008" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0009" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0010" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0011" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0012" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0013" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0014" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0015" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0016" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0017" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0018" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0019" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0020" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0021" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0022" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0023" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0024" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0025" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0026" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0027" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0028" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0029" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0030" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0031" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0032" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0033" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="Miss Up0034" x="3986" y="612" width="640" height="593"/>
+	<SubTexture name="RIght0000" x="4626" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0001" x="4626" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0002" x="5303" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0003" x="5303" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0004" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0005" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0006" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0007" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0008" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0009" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0010" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0011" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0012" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0013" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="RIght0014" x="5980" y="612" width="677" height="643"/>
+	<SubTexture name="Up0000" x="6657" y="612" width="640" height="593"/>
+	<SubTexture name="Up0001" x="6657" y="612" width="640" height="593"/>
+	<SubTexture name="Up0002" x="7297" y="612" width="640" height="593"/>
+	<SubTexture name="Up0003" x="7297" y="612" width="640" height="593"/>
+	<SubTexture name="Up0004" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Up0005" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Up0006" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Up0007" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Up0008" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Up0009" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Up0010" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Up0011" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Up0012" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Up0013" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Up0014" x="0" y="1255" width="640" height="593"/>
+	<SubTexture name="Victorious0000" x="640" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0001" x="640" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0002" x="1332" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0003" x="1332" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0004" x="2024" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0005" x="2024" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0006" x="2716" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0007" x="2716" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0008" x="3408" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0009" x="3408" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0010" x="4100" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0011" x="4792" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0012" x="5484" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0013" x="6176" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0014" x="6868" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0015" x="0" y="1854" width="692" height="599"/>
+	<SubTexture name="Victorious0016" x="692" y="1854" width="692" height="599"/>
+	<SubTexture name="Victorious0017" x="1384" y="1854" width="692" height="599"/>
+	<SubTexture name="Victorious0018" x="2076" y="1854" width="692" height="599"/>
+	<SubTexture name="Victorious0019" x="2768" y="1854" width="692" height="599"/>
+	<SubTexture name="Victorious0020" x="3460" y="1854" width="692" height="599"/>
+	<SubTexture name="Victorious0021" x="4152" y="1854" width="692" height="599"/>
+	<SubTexture name="Victorious0022" x="4844" y="1854" width="692" height="599"/>
+	<SubTexture name="Victorious0023" x="5536" y="1854" width="692" height="599"/>
+	<SubTexture name="Victorious0024" x="640" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0025" x="640" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0026" x="640" y="1255" width="692" height="599"/>
+	<SubTexture name="Victorious0027" x="640" y="1255" width="692" height="599"/>
+	<SubTexture name="Victory Pose0000" x="6228" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0001" x="6228" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0002" x="6874" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0003" x="6874" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0004" x="7520" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0005" x="7520" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0006" x="6228" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0007" x="6228" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0008" x="6874" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0009" x="6874" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0010" x="7520" y="1854" width="646" height="599"/>
+	<SubTexture name="Victory Pose0011" x="7520" y="1854" width="646" height="599"/>
+</TextureAtlas>

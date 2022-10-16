@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="feels.png"><SubTexture name="feels vibe0000" x="0" y="0" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels vibe0001" x="1604" y="0" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels vibe0002" x="3208" y="0" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels vibe0003" x="4812" y="0" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels vibe0004" x="0" y="1844" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels down0000" x="1604" y="1844" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels down0001" x="3208" y="1844" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels down0002" x="4812" y="1844" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels left0000" x="0" y="3688" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels left0001" x="1604" y="3688" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels left0002" x="3208" y="3688" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels up0000" x="4812" y="3688" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels up0001" x="0" y="5532" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels up0002" x="1604" y="5532" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels right0000" x="3208" y="5532" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels right0001" x="4812" y="5532" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+<SubTexture name="feels right0002" x="0" y="7376" width="1604" height="1844" frameX="0" frameY="0" frameWidth="1604" frameHeight="1844" />
+</TextureAtlas>

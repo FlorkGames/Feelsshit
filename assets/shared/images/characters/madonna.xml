@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="madonna.png"><SubTexture name="madonna leftvibe0000" x="0" y="0" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna leftvibe0001" x="1584" y="0" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna leftvibe0002" x="3168" y="0" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna leftvibe0003" x="4752" y="0" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna leftvibe0004" x="0" y="1724" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna leftvibe0005" x="1584" y="1724" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna leftvibe0006" x="3168" y="1724" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna leftvibe0007" x="4752" y="1724" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna rightvibe0000" x="0" y="3448" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna rightvibe0001" x="1584" y="3448" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna rightvibe0002" x="3168" y="3448" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna rightvibe0003" x="4752" y="3448" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna rightvibe0004" x="0" y="5172" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna rightvibe0005" x="1584" y="5172" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna rightvibe0006" x="3168" y="5172" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+<SubTexture name="madonna rightvibe0007" x="4752" y="5172" width="1584" height="1724" frameX="0" frameY="0" frameWidth="1584" frameHeight="1724" />
+</TextureAtlas>
